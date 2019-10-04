@@ -1,0 +1,11 @@
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\bin\Debug\netcoreapp2.2\Githubbertje.deps.json
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\bin\Debug\netcoreapp2.2\Githubbertje.runtimeconfig.json
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\bin\Debug\netcoreapp2.2\Githubbertje.runtimeconfig.dev.json
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\bin\Debug\netcoreapp2.2\Githubbertje.dll
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\bin\Debug\netcoreapp2.2\Githubbertje.pdb
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.csprojAssemblyReference.cache
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.AssemblyInfoInputs.cache
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.AssemblyInfo.cs
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.dll
+C:\Users\Antonio Raino\Documents\ma\bewijzenmap\periode1.1\pro2\Pro2Achievements\Githubbertje\obj\Debug\netcoreapp2.2\Githubbertje.pdb
